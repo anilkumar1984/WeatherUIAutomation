@@ -15,7 +15,7 @@ Components Used in FrameWork:
 Below are the Automation Tests which are placed under src/test/java folder
 1.) WeatherInfoFromUITest-Get the Temperature from UI and stores it in TestData.xlsx
 2.) WeatherInfoFromAPITest-Get the temerature from API which is in Kelvin and converts into Celsius  and stores it in TestData.xlsx
-3.) CompareWeatherInfoTest- To compare the Temperature from UI and API 
+3.) CompareWeatherInfoTest- To compare the Temperature from UI and API where the data is present in the TestData.xlsx
 The above test will pass only if there is an variation of (+ or - 2) degree celsius
 
 All the pageObjects and genericTests like BaseTest are present under src/main/java
