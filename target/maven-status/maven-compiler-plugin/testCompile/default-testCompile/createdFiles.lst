@@ -1,0 +1,3 @@
+tests\CompareWeatherInfoTest.class
+tests\WeatherInfoFromUITest.class
+tests\WeatherInfoFromAPITest.class

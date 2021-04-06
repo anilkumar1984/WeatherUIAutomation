@@ -1,0 +1,16 @@
+managers\APIManager.class
+pageObjects\HomePage.class
+enums\EnvironmentType.class
+generics\BaseTest.class
+generics\BasePage.class
+managers\FileReaderManager.class
+generics\BaseTestForAPI.class
+utility\Utility.class
+enums\DriverType.class
+managers\BrowserManager$1.class
+dataProviders\ConfigFileReader.class
+managers\PageObjectManager.class
+generics\BaseTestForUI.class
+dataProviders\ExcelFileReader.class
+managers\BrowserManager.class
+pageObjects\WeatherPage.class
