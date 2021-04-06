@@ -8,7 +8,7 @@ Components Used in FrameWork:
 3.) Design Pattern-POM
 4.) Data Driven-TestData.xlsx
 5.) Config.properties
-6.) Data.json(To pass the API key "appid" to the test)
+6.) Data.json present under TestData folder(To pass the API key "appid" to the test)
 7.) testng.xml
 8.) Reports-Extent Report
 
